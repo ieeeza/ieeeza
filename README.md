@@ -5,4 +5,4 @@
 - 👯 Minhas expectativas para o futuro é colaborar com grandes projetos que podem mudar a vida de muitas pessoas.
 - 😄 Pronouns: ele/dele
 
-[![ieeeza's GitHub stats](https://github-readme-stats.vercel.app/api?username=ieeeza&show_icons=true)](https://github.com/ieeeza/github-readme-stats)
+[![ieeeza's GitHub stats](https://github-readme-stats.vercel.app/api?username=ieeeza&show_icons=true&theme=tokyonight)](https://github.com/ieeeza/github-readme-stats)

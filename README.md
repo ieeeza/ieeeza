@@ -5,4 +5,4 @@
 - 👯 Minhas expectativas para o futuro é colaborar com grandes projetos que podem mudar a vida de muitas pessoas.
 - 😄 Pronouns: ele/dele
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ieeeza)](https://github.com/ieeeza/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=ieeeza&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/ieeeza/github-readme-stats#gh-dark-mode-only)

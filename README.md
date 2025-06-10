@@ -5,10 +5,11 @@
 - 👯 Minhas expectativas para o futuro é colaborar com grandes projetos que podem mudar a vida de muitas pessoas.
 - 😄 Pronouns: ele/dele
 
-<div display=flex justify-content=center align-itens=center>
+<div align=center>
   <a href="https://github.com/ieeeza/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ieeeza&show_icons=true&theme=dark" />
   </a>
+  &nbsp;
   <a href="https://github.com/ieeeza/convoychat">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ieeeza&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
   </a>

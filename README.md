@@ -1,9 +1,8 @@
 ## Saudações!👋😁 <br>
 
-- 🔭 Atualmente trabalhando na area de fullstack criando soluções sob demanda para a empresa que trabalho no momento.
+- 🔭 Atualmente trabalhando na area de fullstack criando soluções sob demanda para a empresa que trabalho.
 - 🌱 Expandindo o meu conhecimento para o framework Angular juntamento com o desenvolvimento backend em java usando o springboot
 - 👯 Minhas expectativas para o futuro é colaborar com grandes projetos que podem mudar a vida de muitas pessoas.
-- 😄 Pronouns: ele/dele
 
 <div align=center>
   <a href="https://github.com/ieeeza">

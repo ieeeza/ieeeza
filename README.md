@@ -1,8 +1,7 @@
-## Saudações!👋😁 <br>
+## Saudações!👋😁 Eu sou o César<br>
 
-- 🔭 Atualmente trabalhando na area de fullstack criando soluções sob demanda para a empresa que trabalho.
-- 🌱 Expandindo o meu conhecimento para o framework Angular juntamento com o desenvolvimento backend em java usando o springboot
-- 👯 Minhas expectativas para o futuro é colaborar com grandes projetos que podem mudar a vida de muitas pessoas.
+- 🔭 Sou desenvolvedor fullstack junior e arquiteto de software.
+- 🌱 Aprimorando meus conhecimentos de mercado para ingressar em grandes projetos que possam mudar a vida das pessoas e o mundo.
 
 <div align=center>
   <a href="https://github.com/ieeeza">

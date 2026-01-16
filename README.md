@@ -13,6 +13,8 @@
   </a>
 </div>
 
+[![Harlok's WakaTime stats](https://github-readme-stats-theta-six-26.vercel.app/api/wakatime?username=ieeeza)](https://github.com/ieeeza/github-readme-stats)
+
 <div style="display: inline_block"><br> 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />

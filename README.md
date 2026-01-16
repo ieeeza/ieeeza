@@ -9,7 +9,7 @@
   </a>
   &nbsp;
   <a href="https://github.com/ieeeza/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats-git-master-ieeezas-projects.vercel.app/top-langs?username=ieeeza&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
+    <img height=200 align="center" src="https://github-readme-stats-theta-six-26.vercel.app/top-langs?username=ieeeza&layout=compact&langs_count=8&card_width=320&show_icons=true&theme=dark" />
   </a>
 </div>
 

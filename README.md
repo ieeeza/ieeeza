@@ -5,7 +5,7 @@
 
 <div align=center>
   <a href="https://github.com/ieeeza">
-    <img height=200 align="center" src="https://github-readme-stats-git-master-ieeezas-projects.vercel.app/api?username=ieeeza&show_icons=true&theme=dark" />
+    <img height=200 align="center" src="[https://github-readme-stats-git-master-ieeezas-projects.vercel.app/](https://github-readme-stats-theta-six-26.vercel.app/)api?username=ieeeza&show_icons=true&theme=dark" />
   </a>
   &nbsp;
   <a href="https://github.com/ieeeza/convoychat">

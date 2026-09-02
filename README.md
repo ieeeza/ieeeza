@@ -85,8 +85,6 @@ Tenho interesse especialmente em projetos que envolvam:
 
 ## 📊 GitHub
 
-> Substitua `ieeeza` pelo seu usuário do GitHub.
-
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ieeeza&show_icons=true&theme=github_dark&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ieeeza&layout=compact&theme=github_dark&hide_border=true" />

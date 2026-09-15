@@ -83,14 +83,6 @@ Tenho interesse especialmente em projetos que envolvam:
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ieeeza&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
 ## 🧠 Atualmente estudando
 
 ```csharp
